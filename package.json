@@ -8,8 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinamsoo/veebiapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kristinamsoo/veebiapp/issues"
+  },
+  "homepage": "https://github.com/kristinamsoo/veebiapp#readme",
+  "description": ""
 }
